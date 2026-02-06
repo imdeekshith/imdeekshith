@@ -1,6 +1,21 @@
-Hi 👋,I'm Deekshith A S
-# 💫 About Me:
-I am Deekshith.<br>Programmer.
+Hi 👋 I’m Deekshith A S
+
+🎓 First-year Computer Science Engineering student  
+💻 Learning C++ and Data Structures  
+🚀 Interested in Software Development and Internships  
+
+🔹 Currently working on:
+- C++ basics and problem solving
+- Data Structures & Algorithms
+
+📌 Goal:
+To crack internships by building strong fundamentals and projects.
+
+🛠 Tech Stack:
+- C++
+- Git & GitHub
+- VS Code
+
 
 
 ## 🌐 Socials:
